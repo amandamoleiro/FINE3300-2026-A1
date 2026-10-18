@@ -4,7 +4,9 @@
 
 - FINE 3300 Assignment 1
 
-- Created an exchange rate calculator that converts between CAD and USD (exchange_rates.py) and compared it with a vibe coded version (ExchangeRatesAI.py)
+- Created a Python currency exchange calculator that converts between CAD and USD using Bank of Canada exchange rate data (exchange_rates.py).
+- Used ChatGPT to generate a separate version of the calculator (ExchangeRatesAI.py) and compared the two programs.
+
 
 
 ## Part A: Link to GitHub Repository

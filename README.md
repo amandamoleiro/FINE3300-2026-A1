@@ -4,7 +4,7 @@
 
 - FINE 3300 Assignment 1
 
-- Created an exchange rate calculator that converts between CAD and USD (exchange_rates.py) and compared it with a vibe coded version (ExchangeRatesAi.py)
+- Created an exchange rate calculator that converts between CAD and USD (exchange_rates.py) and compared it with a vibe coded version (ExchangeRatesAI.py)
 
 
 ## Part A: Link to GitHub Repository
@@ -13,21 +13,21 @@ https://github.com/amandamoleiro/FINE3300-2026-A1.git
 
 ## Part B: Currency Conversion Results
 
-Part 1: exchange_rates.py
+**Part 1: exchange_rates.py**
 
 <img width="513" height="140" alt="Screenshot 2026-10-18 at 11 01 49 AM" src="https://github.com/user-attachments/assets/a030369d-e83d-4e69-817f-2919b38e8cc8" />
 
 
-Part 2: ExchangeRatesAI.py
+**Part 2: ExchangeRatesAI.py**
 
 <img width="511" height="139" alt="Screenshot 2026-10-18 at 11 02 17 AM" src="https://github.com/user-attachments/assets/826f12fa-75aa-4fe1-8831-d81d346d5b78" />
 
 
 
-## Part C: AI Model and Prompts Used for Part 2
+## Part C: LLM Model and Prompts Used for Part 2
 For Part 2 of the assignment I used OpenAI's GPT-6 through ChatGPT to generate the python code. I then used a follow up prompt to give me an explanation of the code for me to better understand.
 
-Prompt 1:
+**Prompt 1:**
 
 I uploaded a screenshot of the Part 1: Exchange Rates instructions and point 1 and 2 under Results. I also attached the Bank of Canada CSV file.
 
@@ -37,7 +37,7 @@ My prompt was:
 
 "Hi, please give me the python code for this."
 
-Prompt 2:
+**Prompt 2:**
 
 After successfully running the new program and testing it by going from USD-to-CAD and CAD-to-USD, I asked ChatGPT to explain the code so I could better understand it. The prompt was:
 
